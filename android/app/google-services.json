@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403295388918",
+    "project_id": "absensi-detect",
+    "storage_bucket": "absensi-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403295388918:android:8444e804147196518c18d7",
+        "android_client_info": {
+          "package_name": "com.example.absensi_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNs5sd2rNljkLaDOGcol-4N4iYVSuKEYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
